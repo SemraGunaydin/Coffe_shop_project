@@ -17,5 +17,13 @@
 * Contact Section: An integrated Google Maps iframe for location and a contact form.
 * Blogs: Stay updated with our latest coffee-related articles.
 
-#📧 Contact
+  # Screen Gif
+
+
+
+  
+
+
+ # 📧 Contact
+
 gunaydinsemra34b@gmail.com
