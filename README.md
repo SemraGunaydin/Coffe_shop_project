@@ -18,6 +18,7 @@
 * Blogs: Stay updated with our latest coffee-related articles.
 
   # Screen Gif
+![Coffe Shop](https://github.com/user-attachments/assets/bd0d1ca8-26c8-426f-9da2-2cc612632b95)
 
 
 
