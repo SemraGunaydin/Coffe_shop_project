@@ -27,4 +27,4 @@
 
  # 📧 Contact
 
-gunaydinsemra34b@gmail.com
+gunaydinsemra34@gmail.com
