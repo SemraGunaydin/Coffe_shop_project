@@ -1,7 +1,8 @@
 # Coffee Espresso ☕️
 
 * A responsive, elegant coffee shop website built using HTML5 and CSS3. 
-* This site showcases the best features of a modern coffee shop, including a detailed menu, customer reviews, and blog sections. With smooth transitions, a warm color palette, and a simple yet visually appealing layout, Coffee Espresso aims to give a rich experience to coffee lovers!
+* This site showcases the best features of a modern coffee shop, including a detailed menu, customer reviews, and blog sections.
+* With smooth transitions, a warm color palette, and a simple yet visually appealing layout, Coffee Espresso aims to give a rich experience to coffee lovers!
 
 # 🧰 Technologies Used
 * HTML5 for structured content
@@ -24,7 +25,7 @@
 Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
 
 # 🌟 Acknowledgments
-Special thanks to Amazon for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Amazon.
+Special thanks to Coffee Espresso for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Coffee Espresso .
 
 
  # 📧 Contact
