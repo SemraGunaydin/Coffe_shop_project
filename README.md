@@ -20,9 +20,11 @@
   # Screen Gif 🎞️🎬
 ![Coffe Shop](https://github.com/user-attachments/assets/bd0d1ca8-26c8-426f-9da2-2cc612632b95)
 
+# 🤝 Contributing
+Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
 
-
-  
+#🌟 Acknowledgments
+Special thanks to Amazon for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Amazon.
 
 
  # 📧 Contact
