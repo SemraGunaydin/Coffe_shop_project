@@ -30,4 +30,4 @@ Special thanks to Coffee Espresso for providing an inspiring layout to replicate
 
  # 📧 Contact
 
-gunaydinsemra34@gmail.com
+semra.gunaydinwork@outlook.com
